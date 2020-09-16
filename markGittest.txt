@@ -1,4 +1,4 @@
 ######Testing Github and Local Git
 added the file below to test local and remote git integration.
 Added this line to test master and branch file change conflict
-
+mark added this line to test remote and local conflict
